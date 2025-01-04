@@ -2,6 +2,7 @@ import numpy as np
 import pandas as pd
 from scipy.optimize import minimize
 
+# 2025年1月4日新增的内容，看看Github能不能同步  
 class RiskParity:
     def __init__(self, returns_data):
         """
